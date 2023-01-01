@@ -1,4 +1,4 @@
-package com.example.instagram.fragment;
+package com.example.instagram.fragment.bottomNavigationViews;
 
 import androidx.fragment.app.Fragment;
 /**

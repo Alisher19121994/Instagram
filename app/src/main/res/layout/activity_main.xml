@@ -18,8 +18,8 @@
         android:layout_alignParentBottom="true"
         android:layout_gravity="start"
         android:elevation="8dp"
-        app:itemIconTint="#c13584"
-        app:itemTextColor="#833AB4"
+        app:itemIconTint="@color/navigation_color"
+        app:itemTextColor="@color/navigation_color"
         app:menu="@menu/navigation"
         app:labelVisibilityMode="unlabeled"
         app:itemBackground="@color/white" />

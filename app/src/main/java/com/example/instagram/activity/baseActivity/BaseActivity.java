@@ -24,6 +24,7 @@ public class BaseActivity extends AppCompatActivity {
     public void openSignInActivity(Context context) {
         Intent intent = new Intent(this, SignInActivity.class);
         startActivity(intent);
+        finish();
     }
 
     public void openSignUpActivity(Context context) {

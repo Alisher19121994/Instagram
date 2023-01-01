@@ -16,4 +16,9 @@
     <string name="profile">Profile</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_a_caption">Write a caption</string>
+    <string name="follow">Follow</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
 </resources>
